@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Jesus
 
-<!--
-**J3sus-js/J3sus-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Me apasiona el desarrollo web
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Sobre mí
+
+- 🔭 Soy **desarrollador web** enfocado en crear experiencias digitales e interactivas.
+- 🌱 Actualmente estoy aprendiendo desarrollo **Backend** y arquitectura de servidores.
+- 💬 Pregúntame sobre **HTML, CSS, JavaScript y React**.
+- 📫 Cómo contactarme: **jams52008@gmail.com**
+
+---
+
+### 🌐 Conéctate conmigo:
+
+<p align="left">
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://shields.io" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+#### 💻 Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Frontend" />
+  </a>
+</p>
+
+#### ⚙️ Backend y Bases de Datos
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Backend" />
+  </a>
+</p>
+
+#### 🛠️ Herramientas de Desarrollo
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Herramientas" />
+  </a>
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="left">
+  <img src="https://vercel.app" alt="Estadísticas de GitHub" height="180" />
+  <img src="https://vercel.app" alt="Lenguajes más usados" height="180" />
+</p>
+
+### ⚡ Gráfico de Actividad
+
+<p align="left">
+  <img src="https://vercel.app" alt="Gráfico de Actividad" width="100%" />
+</p>
