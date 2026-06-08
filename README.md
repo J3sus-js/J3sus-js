@@ -57,3 +57,4 @@
 <p align="left">
   <img src="https://vercel.app" alt="Gráfico de Actividad" width="100%" />
 </p>
+
